@@ -1,0 +1,33 @@
+.my-jumbotron {
+  background-image: url(https://rikkyo-mib.jp/wp-content/uploads/2017/07/mib-asakusa-night2.jpg);
+  min-height: 500px;
+  background-repeat: no-repeat;
+  background-position: center;
+  -webkit-background-size: cover;
+}
+
+.my-jumbotron-sleep-pod {
+  background-image: url(https://i.pinimg.com/originals/5a/80/6c/5a806cb1bfd44eb84cc50a1c8a7ce49a.jpg);
+  min-height: 500px;
+  background-repeat: no-repeat;
+  background-position: center;
+  -webkit-background-size: cover;
+}
+
+.my-jumbotron-japanese-food {
+  background-image: url(http://nowbali.co.id/wp-content/uploads/2017/03/Theme-Japanese-Food-Mad-Ronin-1-1024x572.jpg);
+  min-height: 500px;
+  background-repeat: no-repeat;
+  background-position: center;
+  -webkit-background-size: cover;
+}
+
+.pictures div img {
+  max-width: 100%;
+  max-height: 500px;
+  display: inline-block;
+}
+
+.Tokyo-City {
+  text-align: center;
+}
