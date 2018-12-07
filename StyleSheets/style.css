@@ -6,16 +6,16 @@
   -webkit-background-size: cover;
 }
 
-.my-jumbotron-sleep-pod {
-  background-image: url(https://i.pinimg.com/originals/5a/80/6c/5a806cb1bfd44eb84cc50a1c8a7ce49a.jpg);
+.my-jumbotron-Kyoto {
+  background-image: url(https://thepointsguy.com/wp-content/uploads/2017/03/GettyImages-638932388.jpg);
   min-height: 500px;
   background-repeat: no-repeat;
   background-position: center;
   -webkit-background-size: cover;
 }
 
-.my-jumbotron-japanese-food {
-  background-image: url(http://nowbali.co.id/wp-content/uploads/2017/03/Theme-Japanese-Food-Mad-Ronin-1-1024x572.jpg);
+.my-jumbotron-Fukuoka {
+  background-image: url(https://cdn4.i-scmp.com/sites/default/files/styles/2000x792/public/images/methode/2018/03/23/4def7ae6-2cf5-11e8-aca1-e0fd24c4b573_4000x1584_203612.jpg?itok=0RxKT-ry);
   min-height: 500px;
   background-repeat: no-repeat;
   background-position: center;
@@ -30,4 +30,35 @@
 
 .Tokyo-City {
   text-align: center;
+}
+
+hr {
+  background-color: #2e2e1f;
+  height: 1px;
+}
+
+.Kyoto-Picture div img {
+  width:455px;
+  height:303px;
+}
+
+.Fukuoka-Picture div img {
+  width:455px;
+  height:303px;
+}
+
+.Japanese-Food div img {
+  width:100%;
+}
+
+.my-jumbotron a h1{
+  color:  white;
+}
+
+.my-jumbotron-Kyoto a h1{
+  color:  white;
+}
+
+.my-jumbotron-Fukuoka a h1{
+  color:  white;
 }
